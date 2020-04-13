@@ -5,6 +5,6 @@ Digital transformation trends are propagating enterprise APIs across public, pri
 
 ## How it Works
 
-CloudVector API Shark is supported for all Kubernetes deployments. Identify your applications to be monitored and deploy CloudVector as a sidecar container in your application pods. You are now ready to discover & monitor your APIs.
+API Shark is supported for all Kubernetes deployments. Identify your applications to be monitored and deploy as a sidecar container in your application pods. You are now ready to discover & monitor your APIs.
 
 [Download For Free!](https://www.cloudvector.com/api-shark/)
